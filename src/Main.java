@@ -1,11 +1,12 @@
 public class Main {
-    public static void main (String[] args) {
+    public static void main(String[] args) {
 
         int suma = 0;
-        for (int i = 1; i <= 3; i ++) {
+        for (int i = 1; i <= 3; i++) {
             suma += i;
         }
         System.out.println(suma);
     }
+
 }
-// hola desde la rama 2d
+// hola desde la rama 2dsS
